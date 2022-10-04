@@ -96,7 +96,7 @@ function keisanSikaku(e) {
     a = b = c = d = 0;
   }
   if (point > 15) {
-    alert("🍼クリア~~🎉" + point)
+    alert("🍼クリア~~🎉")
     point = 0
     score.innerHTML=point;
   }
